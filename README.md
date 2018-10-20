@@ -1,2 +1,3 @@
-# halloween-pi
+# Halloween-pi
 Halloween Pumpkin Pi project
+
